@@ -1,5 +1,6 @@
 # titanicdataset
 
-
-Implementation of Kaggle competition task in Python featuring Titanic dataset.
-Referenced from dataquest
+#Contributors
+  Samantha Lee
+  
+Prediction of deaths aboard the Titanic. Basically the most famous Kaggle competition project you can do. I used Dataquest to help me. 

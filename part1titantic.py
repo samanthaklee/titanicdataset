@@ -1,3 +1,5 @@
+import pandas
+
 ## 3. Missing data ##
 
 # The titanic variable is available here.

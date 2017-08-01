@@ -1,4 +1,5 @@
 import pandas
+import scipy
 
 ## 3. Missing data ##
 
